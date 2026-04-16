@@ -13,7 +13,7 @@ NOTES::
 
 | **Version**|**Notes**|
 |:--------:|-----|
-| 1.0 | Initial - no Notating before git changes
+| 1.0 | Initial - Version to upload
 | 1.0 | Added jamf policy -trigger '
 ||       Fixed Some Notations
 ||       Adjusted some spacing 
